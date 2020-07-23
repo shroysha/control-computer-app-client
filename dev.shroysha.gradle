@@ -1,2 +1,2 @@
-description = "A client used to control a computer server"
+description = "Client used to control a computer hosting the webapp"
 version = "1.0-SNAPSHOT"
