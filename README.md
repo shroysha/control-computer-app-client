@@ -2,7 +2,7 @@
 > see JavaDoc: [JavaDoc](docs/javadoc/index.html)
 
 ## Description
-A client used to control a computer server
+Client used to control a computer hosting the webapp
 
 ### Tags
 [Java, Application]
