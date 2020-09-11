@@ -5,4 +5,4 @@
 Client used to control a computer hosting the webapp
 
 ### Tags
-[Java, Application]
+[Java, Application, Spring Boot App Client]
